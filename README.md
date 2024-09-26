@@ -65,4 +65,4 @@ If you want to contribute, please fork the repository and create a pull request 
 
 ## Author
 
-This script was developed by **Afrizal F.A** as part of R&D at ICWR. For any inquiries, please reach out via [your contact method].
+This script was developed by **Afrizal F.A** as part of R&D at ICWR. For any inquiries, please reach out via afrzlf4@gmail.com.
